@@ -184,17 +184,9 @@ typedef struct {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Create Pull Request
-
 ## Author
 
-- **Your Name** - [Your GitHub Profile](https://github.com/yourusername)
+- **Your Name** - [Thirumalesh](https://github.com/thirumalesh-developer)
 
 ## Acknowledgments
 
