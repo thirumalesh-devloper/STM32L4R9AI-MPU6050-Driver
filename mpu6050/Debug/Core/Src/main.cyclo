@@ -1,0 +1,13 @@
+../Core/Src/main.c:110:6:MPU6050_Init	2
+../Core/Src/main.c:144:6:MPU6050_Read_Accel	1
+../Core/Src/main.c:164:6:MPU6050_Read_Gyro	1
+../Core/Src/main.c:184:6:MPU6050_Read_Temp	1
+../Core/Src/main.c:195:6:MPU6050_Read_All	1
+../Core/Src/main.c:226:5:main	1
+../Core/Src/main.c:292:6:SystemClock_Config	4
+../Core/Src/main.c:343:13:MX_I2C3_Init	4
+../Core/Src/main.c:391:13:MX_SAI1_Init	2
+../Core/Src/main.c:444:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:488:13:MX_FMC_Init	2
+../Core/Src/main.c:548:13:MX_GPIO_Init	1
+../Core/Src/main.c:842:6:Error_Handler	1
