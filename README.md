@@ -184,10 +184,6 @@ typedef struct {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-- **Your Name** - [Thirumalesh](https://github.com/thirumalesh-developer)
-
 ## Acknowledgments
 
 - STMicroelectronics for STM32 HAL library
