@@ -57,7 +57,7 @@ A complete MPU6050 6-axis IMU (Inertial Measurement Unit) driver implementation 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/STM32L4R9AI-MPU6050-Driver.git
+git https://github.com/thirumalesh-devloper/STM32L4R9AI-MPU6050-Driver.git
 cd STM32L4R9AI-MPU6050-Driver
 ```
 
